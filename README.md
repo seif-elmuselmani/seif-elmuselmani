@@ -38,6 +38,8 @@
 ![OOP](https://img.shields.io/badge/-OOP-%23000000?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-%23000000?style=flat-square)
 
+
+![Snake Animation](https://github.com/seif-elmuselmani/seif-elmuselmani/raw/output/github-contribution-grid-snake-dark.svg)
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=radical&count_private=true)
