@@ -11,11 +11,6 @@
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝑪𝒍𝒆𝒂𝒏 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 & 𝑺𝑶𝑳𝑰𝑫 𝑷𝒓𝒊𝒏𝒄𝒊𝒑𝒍𝒆𝒔.
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![Nabd Project](https://svg.bookmark.style/api?url=https://github.com/seif-elmuselmani/Nabd&mode=light&style=horizontal)](https://github.com/seif-elmuselmani/Nabd)
-[![Graduation Project](https://svg.bookmark.style/api?url=https://github.com/seif-elmuselmani/IoT-Project&mode=dark&style=horizontal)](https://github.com/seif-elmuselmani)
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ### 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑪𝒐𝒓𝒆
@@ -45,5 +40,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif1436&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif1436&layout=compact&theme=radical&langs_count=6)
+![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=radical&langs_count=6)
