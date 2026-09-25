@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Seif%20Elden%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=%F0%9F%8F%86%20%231%20DEPI%20Republic%20Scholar%20%7C%20Backend%20Software%20Engineer%20(.NET%20%26%20MEAN)&descSize=18" width="100%" alt="Seif Elden Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Seif%20Elden%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=%F0%9F%8F%86%20%231%20DEPI%20Republic%20Scholar%20%7C%20Backend%20Software%20Engineer%20(.NET%20and%20MEAN)&descSize=18" width="100%" alt="Seif Elden Header Banner" />
 
   <br />
 
@@ -74,8 +74,8 @@ Hello world! 👋 I am **Seif Elden Mohamed**, a passionate **Backend Software E
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="Seif Elden GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="Seif Elden GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
 
   <br /><br />
 
