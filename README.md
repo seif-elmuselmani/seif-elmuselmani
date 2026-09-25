@@ -74,8 +74,8 @@ Hello world! 👋 I am **Seif Elden Mohamed**, a passionate **Backend Software E
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="Seif Elden GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="Seif Elden GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
 
   <br /><br />
 
