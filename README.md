@@ -1,46 +1,98 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎𝙚𝙞𝙛 𝙀𝙡𝙙𝙚𝙣
+<div align="center">
 
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-elmuselmani/)
-[![](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eldenseif645@gmail.com)
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Seif%20Elden%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=%F0%9F%8F%86%20%231%20DEPI%20Republic%20Scholar%20%7C%20Backend%20Software%20Engineer%20(.NET%20%26%20MEAN)&descSize=18" width="100%" alt="Seif Elden Header Banner" />
 
-𝑰 ❤️ 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈!
+  <br />
 
-:computer: 𝑨 .𝑵𝑬𝑻 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒔𝒚𝒔𝒕𝒆𝒎𝒔.
+  <!-- Subtitle Badges -->
+  <a href="https://linkedin.com/in/seif-elmuselmani">
+    <img src="https://img.shields.io/badge/LinkedIn-8%2C388%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/seif-elmuselmani">
+    <img src="https://img.shields.io/badge/DEPI%20Scholar-%231%20Place%20Republic-D97706?style=for-the-badge&logo=trophy&logoColor=white" alt="DEPI 1st Place" />
+  </a>
+  <a href="mailto:eldenseif645@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eldenseif645%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-🚀 𝑪# 𝑴𝒂𝒔𝒕𝒆𝒓𝒚 | ☁️ 𝑨𝑰 & 𝑰𝒐𝑻 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 | 🏋️‍♂️ 𝑮𝒚𝒎 𝑮𝒐𝒆𝒓 | 🎓 𝑭𝑪𝑰𝑺 𝑺𝒕𝒖𝒅𝒆𝒏𝒕
+</div>
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝑪𝒍𝒆𝒂𝒏 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 & 𝑺𝑶𝑳𝑰𝑫 𝑷𝒓𝒊𝒏𝒄𝒊𝒑𝒍𝒆𝒔.
+---
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 👨‍💻 About Me
 
-### 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑪𝒐𝒓𝒆
-![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+Hello world! 👋 I am **Seif Elden Mohamed**, a passionate **Backend Software Engineer & Systems Architect** specializing in **.NET Enterprise Applications** and **MEAN Stack Development**. 
 
-### 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-%23512BD4?style=flat-square)
-![Web API](https://img.shields.io/badge/-REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white)
-![SignalR](https://img.shields.io/badge/-SignalR-%23181717?style=flat-square&logo=signalr)
+- 🏆 **Ranked #1 Nationally (DEPI)**: Graduated at the top of the Digital Egypt Pioneers Initiative (.NET Web Development Track) under the auspices of MCIT.
+- 🎓 **Computer Science Scholar**: Student at Zagazig University (FCIS).
+- 👨‍🏫 **Technical Mentor & Instructor**: Instructing hundreds of students in algorithms and AI applications at **iSchool** and **DEMI Initiative**.
+- 💡 **Architectural Focus**: Solid expertise in **Clean Architecture**, **SOLID Principles**, **CQRS Pattern**, and high-performance Web APIs.
 
-### 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 & 𝑻𝒐𝒐𝒍𝒔
-![SQL Server](https://img.shields.io/badge/-SQL_Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+---
 
-### 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 & 𝑪𝒐𝒏𝒄𝒆𝒑𝒕𝒔
-![Clean Arch](https://img.shields.io/badge/-Clean_Architecture-%23000000?style=flat-square)
-![SOLID](https://img.shields.io/badge/-SOLID_Principles-%23000000?style=flat-square)
-![OOP](https://img.shields.io/badge/-OOP-%23000000?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/-Design_Patterns-%23000000?style=flat-square)
+### 🛠️ Tech Stack & Ecosystem
 
+<div align="left">
 
-![Snake Animation](https://github.com/seif-elmuselmani/seif-elmuselmani/raw/output/github-contribution-grid-snake-dark.svg)
-## 𝗦𝘁𝗮𝘁𝘀
+#### 🚀 Backend & Core Architecture
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET 8 Core](https://img.shields.io/badge/.NET%208.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=radical&langs_count=6)
+#### 🗄️ Databases & Storage
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 💻 Frontend & Tools
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Flagship Projects
+
+| Project | Stack & Architecture | Description & Status |
+| :--- | :--- | :--- |
+| 🩸 **[Shuryan (شريان)](#)** | C#, ASP.NET Core 8, Clean Architecture, SQL Server | 🏆 **1st Place Republic Winner (DEPI)**. Enterprise blood donation network API. |
+| 🩺 **[NABD (نبض)](#)** | C#, Web API, Microservices, AI Integration | Smart Unified Medical EHR & AI Diagnostic Portal (Grade A+ Graduation Project). |
+| 🛍️ **[Adsamy Portal](#)** | MEAN Stack (Angular, Node, Express, MongoDB) | High-performance interactive corporate marketing & service dashboard. |
+| 🚀 **[Personal Portfolio](https://github.com/seif-elmuselmani/MyProtofolio)** | React 18, Vite 5, Custom Design Tokens | Dynamic Portfolio with Secret Admin CMS & Verified Credentials Showcase. |
+
+---
+
+### 📊 GitHub Live Statistics & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=seif-elmuselmani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="Seif Elden GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif-elmuselmani&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seif-elmuselmani&theme=midnight-purple&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+### 🎮 Interactive Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seif-elmuselmani/seif-elmuselmani/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ & Clean Architecture by Seif Elden Mohamed</sub>
+</div>
