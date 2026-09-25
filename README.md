@@ -64,7 +64,7 @@ Hello world! 👋 I am **Seif Elden Mohamed**, a passionate **Backend Software E
 | Project | Stack & Architecture | Description & Status |
 | :--- | :--- | :--- |
 | 🩸 **[Shuryan (شريان)](#)** | C#, ASP.NET Core 8, Clean Architecture, SQL Server | 🏆 **1st Place Republic Winner (DEPI)**. Enterprise blood donation network API. |
-| 🩺 **[NABD (نبض)](#)** | C#, Web API, Microservices, AI Integration | Smart Unified Medical EHR & AI Diagnostic Portal (Grade A+ Graduation Project). |
+| 🩺 **[NABD (نبض)](https://github.com/Nabd-Health/Nabd-Backend)** | C#, Web API, Microservices, AI Integration | Smart Unified Medical EHR & AI Diagnostic Portal (Grade A+ Graduation Project). |
 | 🛍️ **[Adsamy Portal](#)** | MEAN Stack (Angular, Node, Express, MongoDB) | High-performance interactive corporate marketing & service dashboard. |
 | 🚀 **[Personal Portfolio](https://github.com/seif-elmuselmani/MyProtofolio)** | React 18, Vite 5, Custom Design Tokens | Dynamic Portfolio with Secret Admin CMS & Verified Credentials Showcase. |
 
